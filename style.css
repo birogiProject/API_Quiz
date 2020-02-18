@@ -1,0 +1,30 @@
+body {
+	background-color: #EFEFEF;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+li {
+	border: solid 1px black;
+	background-color: white;
+	border-radius: 10px;
+	margin-bottom: 20px;
+	line-height: 50px;
+}
+li:hover {
+	background-color: #ADC6FF;
+}
